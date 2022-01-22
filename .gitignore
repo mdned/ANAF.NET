@@ -14,3 +14,5 @@
 /ANAF.NET/bin/Release
 /Demo.Api/bin/Release/netcoreapp3.1
 /Demo.ConsoleApplication/bin/Release/netcoreapp3.1
+/Demo.Api/bin/Release/net5.0
+/Demo.ConsoleApplication/bin/Release/net5.0
