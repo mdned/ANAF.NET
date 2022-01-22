@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     public interface IAnafService
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     public class GetFiscalDataResponseDto
     {

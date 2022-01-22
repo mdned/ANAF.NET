@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json.Serialization;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     public class GetFiscalDataRequestDto
     {

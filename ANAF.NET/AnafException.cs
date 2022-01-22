@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     public class AnafException : Exception
     {

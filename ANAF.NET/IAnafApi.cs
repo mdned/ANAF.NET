@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     [AllowAnyStatusCode]
     public interface IAnafApi

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ANAF.NET\ANAF.NET.csproj" />
+    <ProjectReference Include="..\ANAF.NET\ANAF.API.csproj" />
   </ItemGroup>
 
 </Project>

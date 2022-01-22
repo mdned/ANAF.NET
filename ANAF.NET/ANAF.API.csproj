@@ -1,13 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Madalin Nedelcu</Authors>
     <Company></Company>
-    <PackageProjectUrl>https://github.com/mdned/ANAF.NET</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/mdned/ANAF.NET.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mdned/ANAF.API</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mdned/ANAF.API.git</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>ANAF.API</PackageId>
+    <Product>ANAF.API</Product>
   </PropertyGroup>
 
   <ItemGroup>

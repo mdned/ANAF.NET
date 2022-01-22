@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     public class AnafService : IAnafService
     {

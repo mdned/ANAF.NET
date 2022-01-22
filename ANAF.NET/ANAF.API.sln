@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANAF.NET", "ANAF.NET.csproj", "{A6526CE2-7EF6-4C4E-961E-DB3C3E8D6540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANAF.API", "ANAF.API.csproj", "{A6526CE2-7EF6-4C4E-961E-DB3C3E8D6540}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Api", "..\Demo.Api\Demo.Api.csproj", "{CF56105B-D2F5-4C75-BCBA-D8DC9DB92E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.ConsoleApplication", "..\Demo.ConsoleApplication\Demo.ConsoleApplication.csproj", "{8C0B0A1E-BB37-403B-8FB5-7996FDEBCD76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.ConsoleApplication", "..\Demo.ConsoleApplication\Demo.ConsoleApplication.csproj", "{8C0B0A1E-BB37-403B-8FB5-7996FDEBCD76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

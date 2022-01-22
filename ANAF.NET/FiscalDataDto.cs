@@ -1,4 +1,4 @@
-﻿namespace ANAF.NET
+﻿namespace ANAF.API
 {
     public class FiscalDataDto
     {

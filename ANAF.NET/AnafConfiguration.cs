@@ -4,7 +4,7 @@ using Newtonsoft.Json.Serialization;
 using RestEase;
 using RestEase.HttpClientFactory;
 
-namespace ANAF.NET
+namespace ANAF.API
 {
     public static class AnafConfiguration
     {

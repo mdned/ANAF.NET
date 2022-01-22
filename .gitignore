@@ -10,3 +10,7 @@
 /Demo.Api/obj
 /Demo.ConsoleApplication/bin/Debug/netcoreapp3.1
 /Demo.ConsoleApplication/obj
+/ANAF.NET/.vs/ANAF.API
+/ANAF.NET/bin/Release
+/Demo.Api/bin/Release/netcoreapp3.1
+/Demo.ConsoleApplication/bin/Release/netcoreapp3.1
