@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ANAF.NET/.vs/ANAF.NET
+/ANAF.NET/bin/Debug
+/ANAF.NET/obj
+/Demo.Api/bin/Debug/netcoreapp3.1
+/Demo.Api/obj
+/Demo.ConsoleApplication/bin/Debug/netcoreapp3.1
+/Demo.ConsoleApplication/obj

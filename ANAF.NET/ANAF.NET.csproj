@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Madalin Nedelcu</Authors>
+    <Company></Company>
+    <PackageProjectUrl>https://github.com/mdned/ANAF.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mdned/ANAF.NET.git</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestEase.HttpClientFactory" Version="1.5.5" />
+  </ItemGroup>
+
+</Project>
